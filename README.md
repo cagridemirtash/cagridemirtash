@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Javascript,C# and the best freamwork from javascript : Vue.js 
-- 🤔 &nbsp; Exploring new technologies and learn how to use my information about programming language
+- 🤔 &nbsp; Exploring new technologies and learn some stuff about javascript
 - 🎓 &nbsp; Studying Computer Science at ATU.
 - 💼 &nbsp; I'm a Junior Full-Stack web developer.
 - 🌱 &nbsp; Enthusiast in web development and mobile development cycle .
