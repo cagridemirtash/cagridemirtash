@@ -1,5 +1,18 @@
 ### Hi there. I'm Cagri. 👋
-<h4>This account includes some dangerzone. I will be Senior Full-Stack Web Developer in the future... </h4>
+
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+      <div class="row">
+        <div class = "welcome-text">
+          <h4>This account includes some dangerzone. I will be Senior Full-Stack Web Developer in the future... </h4>
+        </div>
+       </div>
+    </div>
+</pre>
+```
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagridemirtash&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cagridemirtash/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align= "center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/cagridemirtash" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
