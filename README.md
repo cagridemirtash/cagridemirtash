@@ -1,9 +1,5 @@
 ### Hi there. This account includes some dangerzone. I'm Cagri. I will be Senior Full-Stack Web Developer in future 👋
 
-<!--
-**cagridemirtash/cagridemirtash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Javascript,C# and the best freamwork from javascript : Vue.js 
