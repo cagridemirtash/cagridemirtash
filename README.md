@@ -1,8 +1,6 @@
 ### Hi there. I'm Cagri. 👋
 
 ```html
-<h2>Example of code</h2>
-
 <pre>
     <div class="container">
       <div class="row">
