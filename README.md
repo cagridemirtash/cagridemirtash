@@ -1,4 +1,5 @@
-### Hi there. This account includes some dangerzone. I'm Cagri. I will be Senior Full-Stack Web Developer in future 👋
+### Hi there. I'm Cagri. 👋
+<h1>This account includes some dangerzone. I will be Senior Full-Stack Web Developer in future </h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
