@@ -17,11 +17,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Javascript,C# and the best freamwork from javascript : Vue.js 
+- 🔭 &nbsp; I’m currently learning Javascript,C# and the best freamwork from javascript : Vue.js. 
 - 🤔 &nbsp; Exploring new technologies and learn some stuff about javascript
 - 🎓 &nbsp; Studying Computer Science at ATU.
 - 💼 &nbsp; I'm a Junior Full-Stack web developer.
-- 🌱 &nbsp; Enthusiast in web development and mobile development cycle .
+- 🌱 &nbsp; Enthusiast in web development and mobile development cycle.
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagridemirtash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cagridemirtash's Github Stats">
