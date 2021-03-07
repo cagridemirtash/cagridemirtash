@@ -8,7 +8,7 @@
           <h4>This account includes some dangerzone.</h4>
         </div>
         <div class = "col-md-6 my-future-aim">
-          <h4>I will be Senior Full-Stack Web Developer in the future...</h4>
+          <h4>I will be Senior Full-Stack Web Developer</h4>
         </div>
        </div>
     </div>
