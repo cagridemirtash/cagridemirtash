@@ -29,6 +29,7 @@
    </p>
 
    <p>
+    &nbsp;
     <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagridemirtash&layout=compact&text_color=daf7dc&bg_color=151515" width = "45%" >
    </p>
 
