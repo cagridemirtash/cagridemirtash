@@ -31,7 +31,7 @@
 <br>
 <hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align = " center "> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/cagridemirtash" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
