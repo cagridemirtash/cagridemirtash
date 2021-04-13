@@ -30,6 +30,8 @@
 <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagridemirtash&layout=compact&text_color=daf7dc&bg_color=151515" width = "45%" >
 </div>
 
+<br>
+
 <h3 align= "center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
