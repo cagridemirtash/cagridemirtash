@@ -1,8 +1,8 @@
 # Who Am I 💻
 - 🔭 I’m currently learning Javascript and the best freamwork from javascript : Vue.js
 - 🤔 Exploring new technologies and learn some stuff about javascript
-- 🎓 Studying Computer Science at ATU.
-- 💼 Enthusiast in web development and mobile development cycle.
+- 🎓 Studying Computer Science at ATU
+- 💼 Enthusiast in web development and mobile development
 
 ***
 
