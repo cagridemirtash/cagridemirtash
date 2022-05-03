@@ -1,5 +1,5 @@
 # Who Am I 💻
-- 🔭 I’m currently learning Blockchain Tech
+- 🔭 I’m currently learning Blockchain Tech and Backend Technologies
 - 🎓 Studying Computer Science at ATU
 - 💼 Enthusiast in Web Development and Blockchain
 
