@@ -7,7 +7,7 @@ Full-Stack Computer Engineer
 He is a computer engineer who wants to handle project by side and learn quickly. Also, interested in cats and techs.
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning Typerscript, Javascript and .NET
+* 🧠  I'm learning Typescript, Javascript and .NET
 * 🤝  I'm open to collaborating on Blockchain and Backend.
 * ⚡  I am a hyperman who is passionate about dreams.
 
