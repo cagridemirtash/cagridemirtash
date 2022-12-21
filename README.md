@@ -7,7 +7,7 @@ Full-Stack Computer Engineer
 He is a computer engineer who wants to handle project by side and learn quickly. Also, interested in cats and techs.
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning Typescript, Javascript and .NET
+* 🧠  I'm learning Microservices which are coding by .NET Core and Java 
 * 🤝  I'm open to collaborating on Blockchain, Backend and Network.
 * ⚡  I am a hyperman who is passionate about dreams.
 
@@ -29,8 +29,6 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 </p>
 
 
