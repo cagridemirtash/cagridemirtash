@@ -13,7 +13,7 @@ He is a computer engineer who wants to handle project by side and learn quickly.
 
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
 ### Skills
 
 
