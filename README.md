@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ----------------------------
-
+![](https://komarev.com/ghpvc/?username=cagridemirtash&color=yellow)
 He is a computer engineer who wants to handle project by side and learn quickly. Also, interested in cats and techs.
 
 * 🌍  I'm based in Turkey
@@ -13,7 +13,7 @@ He is a computer engineer who wants to handle project by side and learn quickly.
 
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+
 ### Skills
 
 
