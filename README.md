@@ -10,12 +10,11 @@ He is a computer engineer who wants to handle project by side and learn quickly.
 * 🧠  I'm learning Blockchain projects which are basis on Chain Network. Also, Learning Typescript and Go.
 * 🤝  I'm open to collaborating on Blockchain, Backend and Network.
 * ⚡  I am a hyperman who is passionate about dreams.
-* ![](https://komarev.com/ghpvc/?username=cagridemirtash&color=yellow)
+
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -28,7 +27,6 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
