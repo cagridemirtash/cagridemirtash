@@ -8,7 +8,7 @@ He is a computer engineer who wants to handle project by side and learn quickly.
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning Blockchain projects which are basis on Chain Network. Also, Learning Typescript and Go.
-* 🤝  I'm open to collaborating on Blockchain, Backend and Network.
+* 🤝  I'm open to discussion on Blockchain, Backend and Network.
 * ⚡  I am a hyperman who is passionate about dreams.
 
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
