@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 * Front Tech => JavaScript / TypeScript / TailwindCSS
 * JavaScript Tech ( Freamwork ) => React.js / Vue.js / Express.js / Next.js
 * Database Tech : PostgreSql
-* ORM : Prisma
+* ORM : Prisma / Hibernate
 
 ### Socials
 
