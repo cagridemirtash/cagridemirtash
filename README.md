@@ -7,7 +7,7 @@ Backend Developer / DevOps
 He is a computer engineer who wants to handle project by side and learn quickly. Also, interested in cats and techs.
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning projects which are basis on Backend Technologies. Also, Learning Node.js and Go.
+* 🧠  I'm learning projects which are basis on Backend Technologies.
 * 🤝  I'm open to discussion on Blockchain, Backend and Network.
 * ⚡  I am a hyperman who is passionate about dreams.
 
