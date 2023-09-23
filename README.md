@@ -16,10 +16,10 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 
 ### Skills
 
-* Back Tech => Java / GoLang
+* Back Tech => Java / C#
 * Front Tech => JavaScript / TypeScript / TailwindCSS
-* JavaScript Tech ( Freamwork ) => React.js / Vue.js / Express.js / Next.js
-* Database Tech : PostgreSql
+* JavaScript Tech ( Freamwork ) => React.js / Vue.js / Express.js / Next.js / Angular
+* Database Tech : PostgreSql / SQL Server
 * ORM : Prisma / Hibernate
 
 ### Socials
