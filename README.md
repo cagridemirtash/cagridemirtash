@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer
 ----------------------------
-
-He is a computer engineer who wants to handle project by side and learn quickly. Also, interested in cats and techs.
+Sorry! Ah na, who am i?
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning projects which are basis on Backend Technologies.
@@ -25,7 +24,7 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 ### Socials
 
 <p align="left"> 
-<a href="https://discord.com/users/Çağrı Demirtaş#7561" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/cagridemirtash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/hanificagridemirtas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="http://www.medium.com/@cagridemirtash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/cagridemirtash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
