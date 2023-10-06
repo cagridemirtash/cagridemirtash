@@ -15,11 +15,11 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 
 ### Skills
 
-* Back Tech => Java / C#
+* Back Tech => Java(SpringBoot) / C#(.Net Core)
 * Front Tech => JavaScript / TypeScript / TailwindCSS
 * JavaScript Tech ( Freamwork ) => React.js / Express.js / Next.js / Angular
 * Database Tech : PostgreSql / SQL Server
-* ORM : Prisma / Hibernate
+* ORM : Prisma / Hibernate / Entity Freamwork Core
 
 ### Socials
 
