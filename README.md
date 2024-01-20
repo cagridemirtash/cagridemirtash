@@ -5,20 +5,20 @@ DevOps Researcher
 Sorry! Ah na, who am i?
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning projects which are basis on Backend Technologies.
+* 🧠  I'm learning Cloud Technologies.
 * 🤝  I'm open to discussion on Blockchain, Backend and Network.
-* ⚡  I am a hyperman who is passionate about dreams.
+* ⚡  I am a SuperCharger(Motorcycles addict).
 
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
-* Back Tech => Java(SpringBoot) / C#(.Net Core)
-* Front Tech => JavaScript / TypeScript / TailwindCSS
-* JavaScript Tech ( Freamwork ) => React.js / Express.js / Next.js / Angular
-* Database Tech : PostgreSql / SQL Server
-* ORM : Prisma / Hibernate / Entity Freamwork Core
+* "Mainlang" : "Java"
+* "Other Hobbies" : ["JavaScript", "TypeScript", "TailwindCSS"]
+* "Freamwork" : ["React.js", "Node.js", "Next.js", "SpringBoot"]
+* "Database Tech" : ["PostgreSql", "SQL Server"]
+* "ORM" : ["Prisma", "Hibernate"]
 
 ### Socials
 
