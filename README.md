@@ -7,7 +7,7 @@ Sorry! Ah na, who am i?
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning Cloud Technologies.
 * 🤝  I'm open to discussion on Blockchain, Backend and Network.
-* ⚡  I am a SuperCharger(Motorcycles addict).
+* ⚡  I am a SuperCharger (Motorcycles addict).
 
 <a href="https://www.github.com/cagridemirtash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
