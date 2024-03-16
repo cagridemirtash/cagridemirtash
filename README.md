@@ -14,11 +14,11 @@ src="https://img.shields.io/github/followers/cagridemirtash?logo=github&style=fo
 
 ### Skills
 
-* "Mainlang" : "Java"
-* "Other Hobbies" : ["JavaScript", "TypeScript", "TailwindCSS"]
-* "Freamwork" : ["React.js", "Node.js", "Next.js", "SpringBoot"]
+* "Mainlang" : "TypeScript"
+* "Other Hobbies" : ["JavaScript", "TailwindCSS"]
+* "Freamwork" : ["React.js", "Node.js", "Next.js"]
 * "Database Tech" : ["PostgreSql", "SQL Server"]
-* "ORM" : ["Prisma", "Hibernate"]
+* "ORM" : ["Prisma"]
 
 ### Socials
 
